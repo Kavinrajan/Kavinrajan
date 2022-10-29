@@ -7,7 +7,6 @@
 
 **Bio**
 
-🏢 I'm currently working at Trendyol GmbH
 ⚙️ I use daily: .kt, .js, .yml, .sh and .ino
 🌍 I'm mostly active within the Kotlin Community
 🌱 Learning all about Android, also caring security of mobile apps.
