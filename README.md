@@ -3,7 +3,7 @@
 **Now**
 
 🔥 Interested in Android development;
-📆 Looking for contributing to kotlin based open source projects. Especially interested in [Kotlin Coroutines, Jetpack Compose]
+📆 Looking to contribute to Kotlin-based open-source projects. Especially interested in [Kotlin Coroutines, Jetpack Compose]
 
 **Bio**
 
