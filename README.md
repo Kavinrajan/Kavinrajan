@@ -11,5 +11,7 @@
 🌍 
 🌱 Learning all about Android, also caring security of mobile apps.
 
-**Connect With **
-   Linkedin
+   Connect with me:
+codeSTACKr | LinkedIn
+
+
