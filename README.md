@@ -11,6 +11,4 @@
 🌍 
 🌱 Learning all about Android, also caring security of mobile apps.
 
-   Connect with me:[LinkedIn](https://www.linkedin.com/in/kavinrajan/)
-
 
